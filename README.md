@@ -19,3 +19,5 @@ Listed all employees whose first name was "Hercules" and last names began with "
 Listed all employees in the Sales department, including their employee number, last name, first name, and department name.
 Joined all employees in the Sales and Development departments, using their employee number, last name, first name, and department name.
 In descending order, listed the frequency count of employee last names, i.e., how many employees share each last name.
+
+![sql](EmployeeDatabase.png)
